@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1774480416 source:c:\users\felipefurlanfilho\documents\aulas\aula04\projordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
